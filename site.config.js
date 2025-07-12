@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `sleepiie/morethan-log`,
+      href: "https://github.com/sleepiie/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "sleepiie",
+    title: "Sleepiie",
     description: "project archive",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
@@ -26,7 +26,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "sleepiie.site",
   since: 2025, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "th-TH", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
